@@ -1,0 +1,47 @@
+.first {background-color: #1f2937 ; height:350px; padding-top: 8px; font-family: Roboto }
+
+.idk {display: flex; justify-content: space-around ; margin-bottom: 40px}
+
+.first-sep {display :flex ; flex-direction:row ; gap:30px} 
+
+.header-logo {color:#F9FAF8; font-family: Roboto; font-size: 24px; font-weight: 700; } 
+
+.hl-1 , .hl-2 ,  .hl-3 {color: #E5E7EB; font-family: Roboto; font-size: 18px;}
+
+.first-div {display:flex ; justify-content:space-around ; align-items: center; gap: 40px}
+
+.first-para-one {color: #f9faf8; font-size: 48px; font-weight: 900 ; margin: 1px}
+.first-para-two {color : #E5E7EB ; font-size: 18PX}
+button { background-color: #3882f6 ; padding:8px 16px ; color: white}
+
+img {height: 200px; width: 350px }
+
+.container-one {width: 350px ; height: 200px}
+
+
+
+
+
+.sec {height:300px;}
+
+.text1 {color: #1f2937; font-size: 20px; font-weight: 900 ; font-family: Arial; margin: 0 auto ; width:300px ; padding-top: 10px ; margin-bottom : 30px}
+
+.box-container {display:flex ; align-items: center; justify-content: center ;gap : 40px}
+
+.box {height:100px ; width: 100px ; border:5px ; border-color:#3882F6 ; border-style: solid ; margin-bottom: 5px;}
+ 
+.text2 {  font-size: 20px ; width:140px}
+
+
+
+
+
+
+
+
+
+.third {background-color: #e5e7eb; height: 200px ; padding:100px 200px}
+
+.quote {color: #1f2937; font-size: 36px ; font-weight: 300}
+
+.end {color: black; font-weight: 700 ; text-align: end; padding-right: 70px;}
